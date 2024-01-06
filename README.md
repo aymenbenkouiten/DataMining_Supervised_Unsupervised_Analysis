@@ -10,10 +10,7 @@
 
 **Bibliothèques principales :** sklearn, pour les algorithmes de Machine Learning, et d'autres bibliothèques Python pour le traitement de données.
 
-# Installation et configuration
-**Environnement :** Python
-
-**Dépendances :** 
+# Dépendances du code 
 **Pandas :** Une bibliothèque de manipulation et d’analyse de données offrant des structures
 de données et des opérations pour manipuler des tableaux numériques et des séries temporelles.
 Pandas est utilisé pour le chargement et le prétraitement des données avant l’application des
